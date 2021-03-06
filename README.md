@@ -42,9 +42,9 @@ Materials:
 
 #### **On Monday:**
 
-    - Topic:
-    - Instructor:
-    - Time:
+- Topic :
+- Instructor:
+- Time:
 *** 
 #### **On Wednesday:**
 
