@@ -19,6 +19,23 @@ Day 4:
 Day 5 
 
 
+<br />
 <hr />
+
+## ** Week 2 ** 
+Day 6: 
+
 <hr />
-## ** Week 2 **
+Day 7: 
+
+<hr />
+Day 8: 
+
+<hr />
+Day 9: 
+
+<hr />
+Day 10 
+
+<br />
+<hr />
