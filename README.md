@@ -13,48 +13,97 @@ Materials:
 
 
 ***
-Day 2: 
-
-
-Materials:
-***
-Day 3: 
+**Day 2: Introduction to git and GitHub**
 
 
 Materials:
 
 ***
-Day 4: 
-
+**Day 3: Basic Python data types.**
 
 
 Materials:
+
 ***
-Day 5 
+**Day 4: Functions: definition and use, arguments, block structure, scope, recursion**
+
 
 
 Materials:
+
+***
+**Day 5: Conditionals and Boolean expressions**
+
+
+Materials:
+
 ***
 
 ## **Week 2** 
-Day 6: 
+**Day 6: Sequences: Strings, Tuples, Lists** 
+
+Materials:
+
+***
+**Day 7: Iteration, looping and control flow.** 
+
+
+Materials:
+
+***
+**Day 8: String methods and formatting**
+
+
+Materials:
+
+***
+**Day 9: List, Tuples, Dictionaries, Sets and Mutability** 
+
+
+Materials:
+
+***
+**Day 10 :Files and Text Processing**
+
+
 
 Materials:
 ***
-Day 7: 
 
+## Project 1: 
 
-***
-Day 8: 
+*** 
+## **Week 3** 
 
+**Day 11: Functions as Objects**
 
-***
-Day 9: 
-
-
-***
-Day 10 
-
-
+Materials:
 
 ***
+**Day 12:  Classes: Class instances, Methods** 
+
+
+Materials:
+
+***
+**Day 13: Multiple inheritance, Properties**
+
+
+Materials:
+***
+**Day 14: Special methods, Emulating built-in types**
+
+
+Materials:
+***
+**Day 15: Iterators and Generators**
+
+
+Materials:
+
+*** 
+## Project 2: 
+
+***
+
+ 
