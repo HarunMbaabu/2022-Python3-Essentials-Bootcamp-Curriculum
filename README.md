@@ -37,7 +37,34 @@ Materials:
 
 Materials:
 
+*** 
+## **Week 1 Virtual classes:**
+
+#### **On Monday:**
+
+    - **Topic:**
+    - **Instructor:**
+    - **Time:**
+*** 
+#### **On Wednesday:**
+
+    - **Topic:**
+    - **Instructor:**
+    - **Time:**
 ***
+#### **On Friday:**
+
+    - **Topic:**
+    - **Instructor:**
+    - **Time:**
+***
+#### **Suturday Meet-Up:**
+    - **Topic:**
+    - **Guest Speaker:**
+    - **Time**
+***
+
+**🥳🥳🥳🥳🥳🥳🥳🥳**
 
 ## **Week 2** 
 **Day 6: Sequences: Strings, Tuples, Lists** 
