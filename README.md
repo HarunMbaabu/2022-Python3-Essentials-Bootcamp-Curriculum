@@ -48,20 +48,20 @@ Materials:
 *** 
 #### **On Wednesday:**
 
-    - Topic:
-    - Instructor:
-    - Time:
+- Topic:
+- Instructor:
+- Time:
 ***
 #### **On Friday:**
 
-    - Topic:
-    - Instructor:
-    - Time:
+- Topic:
+- Instructor:
+- Time:
 ***
 #### Suturday Meet-Up:
-    - Topic:
-    - Guest Speaker:
-    - Time:
+- Topic:
+- Guest Speaker:
+- Time:
 ***
 
 **🥳🥳🥳🥳🥳🥳🥳🥳**
