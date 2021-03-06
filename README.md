@@ -42,26 +42,26 @@ Materials:
 
 #### **On Monday:**
 
-    - **Topic:**
-    - **Instructor:**
-    - **Time:**
+    - Topic:
+    - Instructor:
+    - Time:
 *** 
 #### **On Wednesday:**
 
-    - **Topic:**
-    - **Instructor:**
-    - **Time:**
+    - Topic:
+    - Instructor:
+    - Time:
 ***
 #### **On Friday:**
 
-    - **Topic:**
-    - **Instructor:**
-    - **Time:**
+    - Topic:
+    - Instructor:
+    - Time:
 ***
-#### **Suturday Meet-Up:**
-    - **Topic:**
-    - **Guest Speaker:**
-    - **Time**
+#### Suturday Meet-Up:
+    - Topic:
+    - Guest Speaker:
+    - Time:
 ***
 
 **🥳🥳🥳🥳🥳🥳🥳🥳**
