@@ -128,8 +128,20 @@ Uses and application of Python programming language.
 > Final Project: Capstone Projects. 
 These are two projects that test everything Python related to prepare you for any python related field, this might me, Python for data science and machine learning or python for web development. These projects will get you ready for junior python developers roles.
 
-**
-—----------------------------------------------------------------------------------------------------------------------
-**
 
-Here you are comfortable to specialize into Python for Data Science or for Web development. 
+---
+
+**Here you are comfortable to specialize into Python for Data Science or for Web development.** 
+---
+
+## **Resouces**
+
+1). https://python.org/
+2). https://www.pythontutorial.net/ 
+3). https://pythonawesome.com/
+4). https://github.com/vinta/awesome-python
+5). https://www.programiz.com/python-programming 
+6). https://youtu.be/t8pPdKYpowI 
+7). https://www.youtube.com/watch?v=LzYNWme1W6Q
+
+
