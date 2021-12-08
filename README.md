@@ -137,11 +137,17 @@ These are two projects that test everything Python related to prepare you for an
 ## **Resouces**
 
 1). https://python.org/
+
 2). https://www.pythontutorial.net/ 
+
 3). https://pythonawesome.com/
+
 4). https://github.com/vinta/awesome-python
+
 5). https://www.programiz.com/python-programming 
+
 6). https://youtu.be/t8pPdKYpowI 
+
 7). https://www.youtube.com/watch?v=LzYNWme1W6Q
 
 
